@@ -2,10 +2,10 @@
 [
   
   {
-    "licence": "silver",
+    "licence": "xxx_uoser6644",
     "expire": "2027/03/02",
     "max_devices": "1",
-    "allowed_devices": ["2cc1a7bf9e02c656"]
+    "allowed_devices": ["8c9118fecaaeee4a"]
   },
 
   {
@@ -19,4 +19,10 @@
     "expire": "2027/03/02",
     "max_devices": "1",
     "allowed_devices": ["8c9118fecaaeee4a"]
+  },
+{
+    "licence": "silver",
+    "expire": "2027/03/02",
+    "max_devices": "1",
+    "allowed_devices": ["2cc1a7bf9e02c656"]
   },
